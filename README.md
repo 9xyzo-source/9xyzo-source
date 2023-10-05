@@ -24,6 +24,10 @@ Here are some of the technologies and tools I'm proficient in:
 - 🐳 Docker
 - 🏆 And more!
 
+## GitHub Stats 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9xyzo-source&show_icons=true&theme=radical)
+
 ## 📫 Let's Connect
 
 If you share my passion for coding or want to collaborate on a project, feel free to connect with me:
